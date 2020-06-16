@@ -1,0 +1,54 @@
+=============================================================
+03/23/2020
+=============================================================
+Title		: Fierce Competition
+Filename	: TMA20AC_FierceCompetition.zip
+Author	      	: Jayrude
+Contact info  	: @Jayrude_ on twitter :)
+Date of release	: 23rd of March 2020
+Version	      	: 1.0
+
+Briefing:
+
+"I've recently been contacted by a local business man who is having some trouble with one of his competitors. From what he's told me it seems like he wants me to find out information about his business to get a competitive edge. I've agreed to take the job and the client has told me he'll leave detailed instructions by his house on the night.
+
+It's getting dark, looks like it's time to leave."
+
+=============================================================
+* Play Information *
+
+Game				: Thief 2 The Metal Age
+Level Names			: Fierce Competition
+File names			: miss20.mis
+Difficulty Settings	   	: Normal/Hard/Expert
+Equipment store		     	: No
+Map/Automap			: No
+New graphics		       	: No (using some door textures I guess)
+New sounds			: No
+New conversations		: No
+New models		        : No
+EAX Support		        : No
+Multi language support		: No
+Briefing			: No
+Subtitles:              	: No
+
+=============================================================
+* Construction *
+
+Base		: From scratch 
+Map Size  	: Small to medium
+Build Time	: ~125 hrs in DromEd
+
+=============================================================
+* Thanks To / Beta Testers *
+
+- Skacky
+- Melan
+- Yandros
+- Psych0sis
+- Zoro
+- Skejven
+- DirkBogan
+- Korthak
+
+=============================================================

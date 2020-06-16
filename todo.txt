@@ -1,0 +1,5 @@
+- Note in mechanist apartment study clipping
+- Long tables have incorrect bounding box
+- Barrels in the inn basement have no physics
+- Aligned textures in inn basement
+- Numerous other collision fixes

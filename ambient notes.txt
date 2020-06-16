@@ -1,0 +1,34 @@
+Mission start:
+m00start
+
+Power station:
+m01turbine
+m02fridge
+m04turbine
+m11turbine
+
+Inside areas:
+m01inside
+m01drone
+m04hum
+m04bsmt
+m04in1
+m07basement
+m07bass
+m16insideL
+
+Outside:
+m01wind
+m02_litewind
+m04wind
+m04windobj
+m04throb
+m05wind
+m07night
+
+Transitions:
+m01trans
+
+Misc:
+m02mainL
+m06mainL
